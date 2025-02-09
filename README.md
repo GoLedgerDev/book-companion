@@ -9,3 +9,5 @@ The `hyperledger/fabric-samples` repository goes through frequent updates using 
 
 ## CC-Tools Demo
 
+The `cc-tools-demo` folder contains the full Hyperledger Labs CC-Tools-Demo project taken from `hyperledger-labs/cc-tools-demo` and used from Chapter 7 and onward of the book. This repository aims to take a fixed version that is known to work with the book.
+
